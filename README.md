@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 💬 Ask me about **Python (django) | javasscript | Psql | figma | ORM**
+- 💬 Ask me about **Python (django) | javasscript | Psql | figma | ORM |html | css | Bootstrap**
 
 - 📫 How to reach me **shibinashiq7224@gmail.com**
 
