@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinashiq&label=Profile%20views&color=0e75b6&style=flat" alt="shibinashiq" /> </p>
 
-- 🔭 I’m currently working on **ecommerce project**
+- 🔭 I’m currently working on **FULL STACK PROJECT**
 
 - 🌱 I’m currently learning **react native**
 
