@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **FULL STACK PROJECT**
 
-- 🌱 I’m currently learning **react native**
+
 
 - 💬 Ask me about **Python (django) | javasscript | Psql | figma | ORM |html | css | Bootstrap**
 
